@@ -72,6 +72,7 @@ Random Forest and Naïve Bayes achieved the highest overall performance among in
 ## Repository Contents
 
 ├── Mental_Health_Paper.ipynb # Jupyter Notebook containing preprocessing, modelling, and results
+
 ├── README.md # Project documentation
 
 
